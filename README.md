@@ -1,12 +1,11 @@
 # 멋쟁이 사자처럼
 
-## 자바스크립트 학습 저장소
+## 자바스크립트 코어에 대해 학습합니다.
 
 ---
 
-학습 주제별로 브렌치를 나눠 수업을 진행합니다.
+학습완료된 항목은 체크박스로 표시됩니다.
 
-[Javascript Core branch](https://www.naver.com)
-
-- [ ] 체크박스
-- [x] 체크된 체크박스
+- [ ] Code Structure
+- [ ] Variables
+- [ ] Static Mode
