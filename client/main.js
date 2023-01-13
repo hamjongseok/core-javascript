@@ -1,7 +1,7 @@
 
 //1. 인풋 벨류값 가져오기
 // 음...input의 값을 어케 가져오지? .value ? 
-// ㄷ ㄷ 어케하는거여 
+// 어떠한 값을 가져오려면 그대상을 선택을 해야한다, 그러기위해 사용하는것이 getNode 
 let resultFirst = getNode('#firstNumber');
 let resultSecond = getNode('#secondNumber');
 
